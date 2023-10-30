@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 <img
 ![GitHub Streak](https://streak-stats.demolab.com?user=IndefinidoJS&theme=radical&border=000000ED)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IndefinidoJS&theme=blux&hide_border=FALSO)](https://git.io/streak-stats)
